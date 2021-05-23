@@ -26,9 +26,9 @@
 			<Alpha Value="255" />
 		</MeterBackground>
 		<SurfaceHighlight>
-			<R Value="85" />
-			<G Value="85" />
-			<B Value="85" />
+			<R Value="55" />
+			<G Value="55" />
+			<B Value="55" />
 			<Alpha Value="255" />
 		</SurfaceHighlight>
 		<SurfaceArea>
@@ -38,9 +38,9 @@
 			<Alpha Value="255" />
 		</SurfaceArea>
 		<Desktop>
-			<R Value="55" />
-			<G Value="55" />
-			<B Value="55" />
+			<R Value="28" />
+			<G Value="28" />
+			<B Value="28" />
 			<Alpha Value="255" />
 		</Desktop>
 		<ViewCheckControlEnabledOn>
@@ -86,15 +86,15 @@
 			<Alpha Value="255" />
 		</ScrollbarLCDTrack>
 		<DetailViewBackground>
-			<R Value="85" />
-			<G Value="85" />
-			<B Value="85" />
+			<R Value="40" />
+			<G Value="40" />
+			<B Value="40" />
 			<Alpha Value="255" />
 		</DetailViewBackground>
 		<PreferencesTab>
-			<R Value="65" />
-			<G Value="65" />
-			<B Value="65" />
+			<R Value="11" />
+			<G Value="11" />
+			<B Value="11" />
 			<Alpha Value="255" />
 		</PreferencesTab>
 		<SelectionFrame>
@@ -104,9 +104,9 @@
 			<Alpha Value="255" />
 		</SelectionFrame>
 		<ControlBackground>
-			<R Value="85" />
-			<G Value="85" />
-			<B Value="85" />
+			<R Value="40" />
+			<G Value="40" />
+			<B Value="40" />
 			<Alpha Value="255" />
 		</ControlBackground>
 		<ControlFillHandle>
@@ -329,7 +329,7 @@
 			<R Value="58" />
 			<G Value="153" />
 			<B Value="252" />
-			<Alpha Value="25" />
+			<Alpha Value="200" />
 		</StandbySelectionBackground>
 		<SelectionForeground>
 			<R Value="255" />
@@ -344,9 +344,9 @@
 			<Alpha Value="255" />
 		</StandbySelectionForeground>
 		<SurfaceBackground>
-			<R Value="65" />
-			<G Value="65" />
-			<B Value="65" />
+			<R Value="25" />
+			<G Value="25" />
+			<B Value="25" />
 			<Alpha Value="255" />
 		</SurfaceBackground>
 		<AutomationColor>
@@ -389,18 +389,18 @@
 			<R Value="0" />
 			<G Value="0" />
 			<B Value="0" />
-			<Alpha Value="165" />
+			<Alpha Value="200" />
 		</ShadowDark>
 		<ShadowLight>
-			<R Value="85" />
-			<G Value="85" />
-			<B Value="85" />
-			<Alpha Value="160" />
+			<R Value="0" />
+			<G Value="0" />
+			<B Value="0" />
+			<Alpha Value="100" />
 		</ShadowLight>
 		<DisplayBackground>
-			<R Value="40" />
-			<G Value="40" />
-			<B Value="40" />
+			<R Value="25" />
+			<G Value="25" />
+			<B Value="25" />
 			<Alpha Value="255" />
 		</DisplayBackground>
 		<AbletonColor>
@@ -410,10 +410,10 @@
 			<Alpha Value="255" />
 		</AbletonColor>
 		<WaveformColor>
-			<R Value="0" />
-			<G Value="0" />
-			<B Value="0" />
-			<Alpha Value="220" />
+			<R Value="25" />
+			<G Value="25" />
+			<B Value="25" />
+			<Alpha Value="255" />
 		</WaveformColor>
 		<VelocityColor>
 			<R Value="255" />
@@ -764,9 +764,9 @@
 			<Alpha Value="255" />
 		</TreeColumnHeadForeground>
 		<TreeColumnHeadSelected>
-			<R Value="80" />
-			<G Value="80" />
-			<B Value="80" />
+			<R Value="40" />
+			<G Value="40" />
+			<B Value="40" />
 			<Alpha Value="255" />
 		</TreeColumnHeadSelected>
 		<TreeColumnHeadFocus>
@@ -859,9 +859,9 @@
 			<B Value="210" />
 			<Alpha Value="64" />
 		</ViewCheckControlDisabledOff>
-		<DefaultBlendFactor Value="0.8000000119" />
-		<IconBlendFactor Value="0.6499999762" />
-		<ClipBlendFactor Value="0.75" />
+		<DefaultBlendFactor Value="0.85" />
+		<IconBlendFactor Value="0.85" />
+		<ClipBlendFactor Value="0.85" />
 		<NoteBorderStandbyBlendFactor Value="0.5" />
 		<RetroDisplayBlendFactor Value="0.8999999762" />
 		<CheckControlNotCheckedBlendFactor Value="0.5" />
